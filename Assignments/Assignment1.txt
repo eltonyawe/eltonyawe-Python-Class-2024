@@ -1,0 +1,33 @@
+QN;1 Download and install Python on your PC
+    >Go to google and search "python.org"
+    >Go to dowonloads and dowonload the latest version of python i.e 3.12.4
+    >And then install after dowonloading program
+    >After installing, Go to Command Prompt and type "python" & then press ENTER.
+
+QN;2 Download and install Vs Code on your PC
+    >Go google and search "Vs Code Download for windows" 
+    >then select the first link on your page and click "Download"
+    >After downloading, install your program on the desktop and "Open"
+
+QN;3 What is GIT?
+    >This is a version control software that keeps track of changes made on any project
+
+QN;4 Download anD install GITHUB
+    >Go to google and search "GITHUB.com
+    >then Go to GITHUB download and download the application
+    >After downloading, install GITHUB to your desktop and open to Get Started
+
+QN;5 Create a GITHUB account
+    >Go to GITHUB desktop application and open it 
+    >GO to "Sign Up" and enter your email address and password as required
+    >Then select a user name as instructed thus account creation
+
+QN;6 Connect your PC to GITHUB
+    >Download and install GITBASH 
+    >Open GITBASH desktop application and type "Git"
+
+QN;7 Create a repository on GITHUB and it; (Python-Class)
+    >Go to GITHUB desktop shortcurt and open it
+    >Then login your GITHUB account so as to have access to GITHUB
+    >Go to "create repository" and select it
+    >Then come up with a prototype and name it "Python-Class"

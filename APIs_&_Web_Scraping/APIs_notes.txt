@@ -1,0 +1,37 @@
+APIs  -(Appilcation Programming Interface)
+-Define set of rules / prortocals for building & interating with a software application.
+Uses of APIs
+-For web services enabling application to fetch data from external servers.
+NOTES:
+    -APIs are made of URLs and also end points (function) 
+
+    An Eaxample  of an APIsp;
+    https://dev.dihfansih.com/api/reviews/
+
+
+Methods used in APIs
+GET  >It retrives data from a server
+POST  >It sends data to a server to create a new resource
+PUT  >For updating an existing resource on a server
+DELETE >It removes an existing resource  froma server 
+
+
+Setting up Python Env't for APIs
+Requests.Library > for making http Requests
+
+
+
+How to install packages with python
+-Use pip install
+-Use pip uninstall 
+
+
+pip install requests 
+pip -v 
+pip freeze > filename
+pip install -r filename
+
+
+
+
+

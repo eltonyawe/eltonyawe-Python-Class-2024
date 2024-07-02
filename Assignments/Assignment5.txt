@@ -1,0 +1,51 @@
+What is an  Agrument ?
+      An Argument is an  independent item or variable that contains data or codes.
+     An argument is the value passed to a function when it's called. e.g "hi" = "how are you";
+     Arguments provide values for those parameters.
+
+#So Note :When an argument is used to customize a program for a user, is called a "parameter." 
+because they provide values for parameters
+
+#Example1 ; 
+If one defines a function as def sum(a+b): ..., then (a+b) are the parameter,and then
+If it is called by a+b = ...; sum(1+2) then (1+2) is the argument.
+After defining a function, you can call it with values for the parameters, called arguments.
+
+#Example2 ;
+For example, consider the definition of the add() function: num1 and num2 are the parameters, 
+And the values used for these parameters in the function call are the arguments.
+
+#Types of Arguments in Programming
+Default argument.
+Keyword arguments (named arguments)
+Ositional arguments.
+Arbitrary arguments (variable-length arguments *args and **kwargs)
+
+
+Fundamentally, parameters are the variables inside a function's parentheses. 
+because arguments provide values for those parameters in the parentheses ()
+
+QN; What is a parameter ?
+A parameter is the variable listed inside the parentheses in the function definition.
+A parameter is the input values a function receives.e.g def greet("hi"):
+
+#Example1
+Function parameters are the input values that a function receives. They allow us to pass values into the function for it to use and perform operations on.
+function greet(name) 
+{ console. log("Hello, " + name + "!"); } 
+greet("Alice"); 
+greet("Bob");
+
+#Types of parameters?
+Default argument.
+Keyword arguments. e.g n=1
+Ositional arguments.
+Arbitrary arguments.
+
+#Differrence between an arguement and a parameter
+A parameter is an (unbound) variable, while
+An argument can be a literal or variable or more complex expression of literals.
+
+In conculuision, After defining a function, you can call it with values for the parameters, called arguments.
+For example, consider the definition of the add() function: num1 and num2 are the parameters and the values used for these parameters in the function call are the argument
+the values used for these parameters in the function call are the argument

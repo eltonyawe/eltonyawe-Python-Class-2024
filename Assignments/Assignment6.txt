@@ -1,0 +1,15 @@
+QN ; How to call a function
+    In Python, you define a function with the def keyword, then write the function identifier (name) followed by parentheses and a colon. The next thing you have to do is make sure you indent with a tab or 4 spaces
+and then specify what you want the function to do for you.
+
+    You call the function by typing its name and putting a value in parentheses. 
+This value is sent to the function's parameter. e.g.  def boys (name,age): is a funiction parameter.
+
+
+# Steps take create and call afunction with return
+  The function name is followed by parameter(s) in (). 
+  The colon : signals the start of the function body, which is marked by indentation.
+  Inside the function body, the return statement determines the value to be returned.
+  After function definition is complete,calling the function with an argument returns a value.
+
+NOTE; Return block the cal for function arguements and prints out the value of on the terminal.

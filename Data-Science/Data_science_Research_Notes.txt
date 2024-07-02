@@ -1,0 +1,83 @@
+Topic :Data Science;
+
+Data science is exploring & finding data(its a raw fact) in the real world and use the knowledge to solve business problems.  
+like Service planning, Customer prediction.  
+OR 
+Data science is a multidisciplinary feild that   uses scientific methods , process,
+algorithms and systems to extract knowledge and insights from structured and unstructed data
+
+NOTE:This involes data collection ,cleaning,analyse and vizualisation
+
+Why python is highly used in data science?
+It is widely used because of its;
+-Simpilcity
+-Readability
+-Available of Free packages
+
+
+  
+#Basics of Data Analysis.
+-Python learning
+-Python installation
+
+
+#Python Labraries. 
+1-Pandas   >for data manipaltion and analysis
+2-Numpy    >For numeric operations
+3-Sicpy    >For scientific and data computation
+4-Matiplotlib  >For data visualisation 
+5-Scikit-Learn  >For general machine learning
+6-OS
+7-Beautiful Soup  >For web scraping
+8-Tensorflow     >For deep learning
+9-Networkx & I graph
+10-Jupyter Notebook >For analysis and data visualisation
+
+
+#Exploratory Analysis Using Pandas
+-Introdction to Series and Data Frames
+-Loan prediction problem
+
+#Data Wrangling Using Pandas
+
+#Building a Predictive Model Using Scikit-Learn
+-Logistic Regression
+
+
+
+Machine Learning 
+    -   ML is a subset of AI that focuses on the algorithms and satistical model 
+that enable computers to learn and make predictions or decisions based on agiveb data
+
+
+Python for Machine Learning
+-It has avariety of frame works 
+
+
+Artificial Intelligence(AI)
+   - This is a broad feild that involes the simulation or resemblance of human Intelligence
+    {it is like mimicing human Intelligence}
+
+It includes the following process
+-Learning
+-Reasoning
+-Problem Solving
+-Perception (way AI sees things or data)
+-Languages understanding
+
+
+Artificial Intelligence(AI) Labraries
+-PyTorch    >For neural networks and deep learning
+-Tensorflow
+-OpenCV
+-NLTK   >For Natural Language Processing
+
+
+            Difference.
+Data Science   : Extracting data
+Deep Learning  : learning and Training the model 
+Artificail Intelligence : Resemble human thinking
+
+
+
+

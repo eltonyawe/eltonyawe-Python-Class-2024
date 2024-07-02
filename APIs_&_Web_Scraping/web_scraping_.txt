@@ -1,0 +1,26 @@
+Web Scraping
+-Refes to the extraction of data on the website.
+
+Reasons for Web Scraping
+-For data collection
+-For automation of data
+-For reseacrh & study
+
+Requirements/Tools needed  for Web Scraping
+-Beautiful soup
+-Html
+-Web pages (APIs / URLs)
+
+
+NOTE:
+    But first create a Virtual Environment
+
+How to create a virtual Environment
+Use :-  python -m venv .venv
+
+
+
+
+
+
+    

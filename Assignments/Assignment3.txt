@@ -1,0 +1,26 @@
+QN;1 Explain the following common  examples of operations in Lists
+    #Append
+     >To add an element to the end of the list
+    #Insert
+     >To add an element at a specific position in the list
+    #Remove
+     >To delete an element from the list
+    #Pop 
+     >To remove and return an element from the list
+    #Extend 
+     >To add mutliple elements at the of the list
+    #Concatenate 
+     >To combine two or more lists into a single list 
+    #Sort 
+     >To reorder elements in the list (ascending or descending)
+    #Count 
+     >To get the number of times an element has appeared in a list
+    #Reverse
+     >To reverse all elements in a list
+    #Slicing
+     >To extract a subset of element in a list
+    #Filter
+     >To create a new list with only elements that meet specific conditions
+    #index
+     >To find the index of an element in a list
+      

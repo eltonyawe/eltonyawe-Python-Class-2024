@@ -1,0 +1,53 @@
+QN;1 List & Explain 15 python  keywords that can not be used as variables?
+    >def
+    >return
+    >True
+    >from
+    >if
+    >not
+    >or
+    >and
+    >is
+    >as
+    >yelid
+    >assert
+    >Class
+    >while
+    >for
+
+QN;2 List any Python Operators and briefly explain. each (give 5 examples)
+    >ARITHMETIC OPERATORS 
+    -These perform normal mathematical operations on numeric data e.g +, -, *,/, %, //,'
+    -These can also be applied to many data types like intergers, floats, complex numbers. (all numbers)
+
+    >LOGICAL OPERATORS
+    -These are used to join mutliple conditions and return a boolean value e.g True,False, or, and, &&
+ 
+    >ASSIGNMENT OPERATORS
+    -This assign the value of its righthand a variable or index on the left hand. e.g =
+    -These assign values to variables
+
+
+    >INEQUALITY OPERATORS  
+    -These check if two variables or values are eqaul  e.g  =, !, (==), !=,
+    -The result of the evaluation is either a boolean(True,False) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

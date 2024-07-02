@@ -1,0 +1,66 @@
+CSV Files:
+    CSV;
+        It means for comma seperated values
+CSV Files allow us to input a plain text like data & an it uses acomma to seperate these fields
+
+NOTE:
+reader is used to read csv files
+writer is used to write csv files
+next (file_name) is uesd for skipping the 1st key values
+The index is used to access each key value 
+
+HOW TO OPEN A CSV FILE
+
+ipmort csv
+
+with open('file_path','r') as file_name:
+    file_read = csv.reader(file_name)
+
+    for eachline in file_read:          # a for loop is used to iterate over objects
+        print(each_line)
+
+
+
+HOW TO WRITE A CSV FILE
+
+with open('file_path','r') as file_name:
+    file_read = csv.reader(file_name)
+
+    with open('file_path','w')as new_file:
+        file_written = csv.writer(file_name,delimiter= "\t")
+
+        for each_line in file_read
+            file_written.writerow(each_line)
+
+             
+How to read CSV files using Dict.reader
+
+with open('file_path','r') as file_name:
+    file_read = csv.Dictreader(file_name)
+
+    for each_line in file_read
+            file_written.writerow(each_line)
+
+How to write CSV files using Dict.writer
+
+with open('file_path','r') as file_name:
+    file_read = csv.Dictreader(file_name)
+
+    with open(new_file_path ,'r') as new_file:
+        field_names = ['first_name','last_name','age']
+
+        written_csv = csvDict.writer(new_file,field_names = field_names,delimiter='-')
+
+        written_csv .header()
+
+    for each_line in file_read:
+        file_written.writerow(each_line)
+
+NOTE
+To delete keys u del eachline ['email']
+
+
+
+
+
+

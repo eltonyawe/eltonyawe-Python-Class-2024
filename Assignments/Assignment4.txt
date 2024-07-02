@@ -1,0 +1,52 @@
+#2D_Arrays
+
+What is a Two-Dimensional Arry?
+
+       A two dimensional array is an array within an array OR an array of arrays. 
+It is also known as a collection of data elements arranged in a grid-like structure with rows and columns.
+Each element in the array is referred to as a cell and can be accessed by its row and column indices/indexes.
+NOTE:An array is also called a list according to python programming.
+
+
+#Example of a 2D array..e.g.a Numpad keybutton Case
+Num_pad =[[1,2,3,],
+          [4,5,6],
+          [7,8,9],
+          ["*",0,"#"]]
+print(Num_pad)
+  ''it will print this on terminal'   [[1,2,3,],[4,5,6],[7,8,9],["*",0,"#"]]
+
+
+for loop in Num_pad :
+    for Num_pad_og in loop :
+        print(Num_pad_og,end=" ")
+    print()
+     
+'it will print this on terminal'  1 2 3
+                                  4 5 6
+                                  7 8 9 
+                                  * 0 #     
+
+
+#Switch Case
+           Switch Case in Python is a mulit-way decision statement similar to Python "if-else"
+The switch expression is first evaluated and then compared to each case. 
+If there is a match, the associated block of code is executed.
+   QN: What is the difference between switch case and if-else in Python?
+An if-then-else statement can test expressions based on ranges of values or conditions while
+A switch statement tests expressions based only on a single integer, enumerated value, or String object.
+
+The switch(2+3) is evaluated and the integral value obtained is 5,
+which is then compared one by one with case labels and a matching label is found at case 5:
+So, printf(“2+3 makes 5”) is executed and then followed by break which brings the control out of the switch statement.
+NOTE : Switch case is only used in "dictionaries" according to Python because it replaces or works as if elif-else statement to prevenet over typing.
+#Examples
+def switch (value) :{
+    case "One" :
+    reurn 1    ;
+    case "Two" :
+    return 2   ;
+    case"three":
+}
+    return 3
+    

@@ -1,0 +1,168 @@
+#Functions
+it performs a task 
+it should return a value of something
+aformated string = (f{})
+
+#Code Versioning
+It enables users to save, share ,update and also keep track of changes in a progrct 
+
+#Cloud Storages used for Code Versioning
+Github
+How to connect your PC to Github = ssh-keygen -t rsa -b 4096 -C "yaweelton@gmail.com" 
+GitLab
+Bit bucket
+
+master{pull} or main {push}
+
+
+
+Todays Assignment6
+how do i call a function in a un ction 
+e.g
+function(name,age,course)
+when i call profile i should print the name age course
+
+
+file handling
+nxt week test on friday (theory) 
+
+
+
+Python loops
+
+for loops; 
+           They execute a block of code a fixed number of times. 
+           It can be used to iterate over objects.
+           it can be used when the number of iterations are known.
+           It extecutes only sequences,strings& range
+To skip an iteration in loop we use  continue and to end over / terminate aloop we use break 
+
+NOTE; Continue helps us to remove an iterated value when it reaches it and then continues with others. 
+      Break helps use to stop the loop when it reaches the value of iteratable
+
+While Loops;
+            These execute a some code while the condition is True
+            and the loop while terminate or stop once the condition is False
+            
+
+
+
+docstring : its read by the interpreter e.g
+'''Hello my people its Homebase'''  
+
+comment : it is ignored by the interpreter
+e.g  #My files
+
+\n : it means next line
+f"Name:{name}"
+
+DATA STRUCTURES
+list & the operations
+Dict
+Tuples
+2D arrys
+
+
+the default value of return is None
+
+
+function definition
+def greeting (name,age):
+    print("Name" :,name)  
+
+
+4th June 2024
+
+#If statements
+it has the true & false side{statements}
+implicit : used without else
+explicit : used with else to print
+
+
+if elif:
+it is used for multiple statements.
+NOTE : we dont use switch but we used match
+
+
+
+range(start,end,Steps)
+continue and brek
+
+
+sould be a function 
+
+tomorrow
+range 
+mainn
+lambda
+split
+join
+
+
+map function
+its used as a for loop but it does not replace the for loop
+
+
+
+DATA STRUCTURES
+Scalar    Vs    Vectors
+    {numbers,    {Dict,
+    strings,      Lists,
+    floats,       Sets,
+    boolean}   :   Tuples}
+
+
+Data Science concepts using pandas
+
+-Data collection
+-Data cleaning
+-Data analysis
+-Data statistics
+-Data visualisation
+
+NOTE : To create a data frame we use a class in the in built functions
+       A class in built in functions is capitalizied & amethod is not 
+
+
+csv -comma separated values
+json -java script objection notation
+
+
+arrays used to create dataframe
+series used to create objects
+
+List of Projects to be done
+-Create a group Repository (add yourself ,your team mate,and the the teacher)--Create two branches (elton&Joel)and push to the main branch
+and name it Python-Class-Group-A 
+Note : Each indivdual should choose a project to perform and ensure daily commit to your Git Hub
+
+
+Project to take ;
+
+-Music app  {where users could enter their age & predict their style of music}& 
+ get asample of json file of music and trian your model basing on age & reasons & PLOT GRAPHS
+-Weather app; {record old weather analysis ,predict future  }
+-Banking app  {where users can withdraw & deposit ,get feed bank and determine finacail situation}
+-Betting app {record how teams have been playing(historical data) and predict the winning & relagated teams }
+-Students manamgement system 
+-Supermarket display model 
+-Smart city model 
+
+
+
+
+-Exceptions
+*Varaibles ,Functions,,String operations ,other functionslike lamda,range
+*decision making e.g for loops, map,if statements
+*OOP
+*File handling
+*Wep Scraping
+*Data Science 
+*Machine Learning 
+*A.I
+
+
+
+
+email:  difahsihm@gmail.com
+
