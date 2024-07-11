@@ -1,0 +1,63 @@
+ARTIFICAIL INTELLIGENCE
+What is A.I ?
+    Definiton:
+    >This is the simulation of human intelligence processes by machines especailly computer systems
+    >This process includes learning, reasoning, and self-correction
+
+Goals of A.I 
+    To create systems that can perform tasks would normally require human intelligence
+        -Visaul Perception
+        -Speech Perception
+        -Decision Making 
+        -Language Translation
+
+History of A.I 
+    *1950 ->Neraul Networks
+    *1960's ->Development of algorithms
+    *1980's ->Developed (DL>Deep Learning)
+    *2000 ->Machine Learning and  Huge / big data
+
+Types of A.I 
+    1.Narrow A.I (Weak A.I) 
+        -This is the A.I that is developed and trained for particular task e.g voice assistants
+    2.General A.I (Strong A.I )
+        -This is the A.I that has the ability to understand, learn and apply knowledge across similar to human intelligence
+    3.Superintelligence A.I 
+        -It is an hypothatical A.I that surposses human intelligence and capabilities
+
+
+A.I  Vs ML  Vs  DL
+-A.I is a broad field encompassing any technique that enables machine to mimic the human intel 
+-ML is a subset of A.I that involves development & use of algorithms to learn and make predictions
+-DL is a subset of ML that  uses neural networks withmany layers to analyse various info
+
+
+Artificial Intelligence Subfields
+    1. Natural Language Processing(NLP) C
+        -Techniques for understanding and generating human Language
+        -Applications: Chatbots, Sentiment analysis, Language translation, Speech recognition
+
+    2.Computer Vision 
+        -Techniques for enabling machines to interprete and make decisions based on Vision
+        -Applications: Image & Video Recognition ,Self Driving Cars and Medical Imaging
+
+    3.Robotics 
+        -The design and creation of robots that can perform tasks autonomously
+        -Application: Manfacturing Robots, Autonomous Drones, Household Robots
+
+    4.Expert Systems 
+        -A.I systems that emulate the decision-making or ability of a human expert 
+        -Components of Expert Systems : Knowledage based, User interface, Inference engine
+        -Appilcations: Medical diagnosis systems, finacail forecasting
+
+
+
+A.I Appilcations
+    Predictive Maintainence
+    Anomaly Detection 
+    Recommemender Systems
+    Optimize Algorthims
+
+
+Neraul networks 
+Deep Learning 
