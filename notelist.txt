@@ -152,7 +152,7 @@ Project to take ;
 
 
 -Exceptions
-*Varaibles ,Functions,,String operations ,other functionslike lamda,range
+*Varaibles ,Functions,,String operations,other functionslike lamda,range
 *decision making e.g for loops, map,if statements
 *OOP
 *File handling
@@ -165,4 +165,42 @@ Project to take ;
 
 
 email:  difahsihm@gmail.com
+
+
+
+
+
+
+8 steps involed in ml 
+8 steps involved when developmentcreating a model
+
+
+
+
+ASSSIGNMENTS-Logistics 
+            -Linear Regression
+            -Support vector machines
+            -Decision trees  >
+            -Random forests
+            -Neural Networks
+
+
+
+
+git branch 
+git switch
+
+
+git add .
+git commit -m ""
+git push origin main
+
+
+git clone 
+
+
+unsupervised learning
+
+
+
 

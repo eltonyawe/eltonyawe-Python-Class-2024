@@ -47,7 +47,7 @@ It is widely used because of its;
 
 Machine Learning 
     -   ML is a subset of AI that focuses on the algorithms and satistical model 
-that enable computers to learn and make predictions or decisions based on agiveb data
+that enable computers to learn and make predictions or decisions based on agiven data
 
 
 Python for Machine Learning

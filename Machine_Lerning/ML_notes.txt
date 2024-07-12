@@ -1,0 +1,110 @@
+Machine Learning
+        Is a sub set of AI that focuses on the development of algorithms and satistical models 
+        enableing computers to perform specific tasks without instrustions (Human intervention)
+
+Note:
+    It involves training a model on a dataset to make predicts or decisions basing on new data        
+    An algorithm aset of instrustion /code that excutes 
+
+
+Key Concepts in  machine Learning
+    -Supervised Learning e.g type& examples
+    -Unsupervised Learning 
+    -Reforced Learning  (Deep Learning)
+
+    
+Supervised Learning (SL)
+    -Here the model is trained on a labeled dataset
+     *This means that each training is pair with an output label
+
+     Types/Catergories of SL are;
+        -Regression SL *This involes predicting continuous output e.g predicting the prices of houses
+        -Classification SL *This involes training a distrete(DESIRED OUTPUT) output e.g spamm detection in email
+    
+    Examples of SL;
+                        e.g -Logistics 
+                            -Linear Regression
+                            -Support vector machines
+                            -Decision trees  >
+                            -Random forests
+                            -Neural Networks
+
+
+Unsupervised Learning (USL)
+        -Here the model is trained on data without labeled responses.
+        The system tries to learn the pattrens & the structure from the data
+
+
+        Types of USL
+            -Clustering :Grouping data points into clusters (groups of datasets)
+            -Asscoition : Discovering rules thst describe large portins of data
+
+        Examples are;
+            - K-means Clustering
+            - Mechinical Clustering
+            -Principal Component analysis (PCA)
+            -Apriori alogorthim
+
+
+K-means ->It is an algorithm used for clustering, data that has nearrest mean
+it stands for cen
+
+#Steps involed when operating with USL
+    -Initialize centriods(K)
+    -Assigning clusters
+    -Update 
+    -Repeat the same proccedure until the maxmium cluster set has reached/satisfied
+
+
+Advantages of K-means
+-it is simple and easy to implent
+-It works well with seperated values
+-Efficient with large dataset
+
+Disadvantages of K-means
+-It requires specifing large cluster
+-It is sensitive to the position of data
+-It assumes that your data is similar in size
+
+(PCA)Principal Component Analysis 
+            -It is used to reduce the number of features in the dataset
+            It transforms data into a new coordinated system
+
+
+Steps involved in when implenting PCA 
+    -Standardize the data (subtract the mean &  divde it by the std for each feature)
+    -Calculate the Matrix
+    -Compute the values
+    -Sort the values and Vectors
+    -Project the data
+    
+     
+
+
+Reinforcement Learning;
+    -Is the type of machine learning where an agent(Components/Hardware) learns to make decisions by performing actions 
+     in an envirnment with aim of a reward.
+
+
+    Key Concepts in Reinforcement Learning
+    -Agent : Learner or Decision maker
+    -Environment : This is the external system with which the agent interacts with 
+    -State : It is current represention of the current situation of the agent
+    -Actions : These are possible movees an agent can make
+    -Reward : This could be the feed back from the environment bsaed on the action the agent has taken
+    -Policy(py) : This is the strategy/ways the agent uses or employs to determine
+      the next action based on the current state
+    - Value(V) It is a function the estimates the expected accumulative reward 
+     of taking action from a given data
+
+    Types OF Reinforcement Learning
+    1.Model-free RL
+    2.Model -Based RL
+
+    Algorithims used in relagated
+    - Q-Learning
+    - Deep Q-Networks (DQN)
+    - Policy Gradient Methods
+    - Actor-Critic Methods
+
+    

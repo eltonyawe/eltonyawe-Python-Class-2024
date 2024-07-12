@@ -91,10 +91,10 @@ merged_df =pd.merge(info_df1,info_df2, on="Name")
 
 
 
+
+#My Home Exercise of cleaning data
 employment_df=pd.read_csv('Datasets\Employment.csv')
 print(employment_df.head())
-
-
 
 
 #print(employment_df.info())
@@ -107,8 +107,10 @@ employment_df.fillna({
     
 },inplace= True)
 
-
+##Showing the first five items in our dataset after filling in the missing values 
 print(employment_df.head())
+
+#Showing the last five items in our dataset
 print(employment_df.tail())
 
 #employment_df['Value'].fillna(employment_df['Value'].mean(),inplace=True)

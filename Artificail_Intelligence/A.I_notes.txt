@@ -56,8 +56,42 @@ A.I Appilcations
     Predictive Maintainence
     Anomaly Detection 
     Recommemender Systems
-    Optimize Algorthims
+    Optimize Algorthim
+
 
 
 Neraul networks 
 Deep Learning 
+
+
+Neural networks are machine learning models that mimic the way the human brain works 
+
+-They are composed of interconnected nodes or artificial neurons.
+-Each node or neuron has a weighted connection with other nodes.
+-The output of each neuron is decided by an activation function.
+-The network relies on training data to learn and improve over time.
+
+Neural networks are used for various tasks, including:
+- Predictive modeling
+- Adaptive control
+- Facial recognition
+- Handwriting recognition
+- General game playing
+- Generative AI
+
+Deep learning is a subset of machine learning that uses neural networks to analyze data .
+    >It uses multiple layers, including input layers, output layers, and hidden layers, 
+ to learn increasingly abstract and composite representations of the data . 
+
+Deep learning has been used in many applications like; 
+    -Computer vision
+    -Natural language processing
+    -Speech recognition 
+    -Game playing 
+
+
+    Some common deep learning architectures include;
+     -Deep neural networks
+     -Deep belief networks
+     -Recurrent neural networks
+     -Transformers 

@@ -1,0 +1,23 @@
+Steps involved when creating / developing a model 
+
+Step 1.Understand the business problem and define success criteria. ...
+Step 2.Understand and identify data needs. .
+Step 3: Data Collection for Machine Learning. ...
+Step 4: Preprocessing and Preparing Your Data. ...
+Step 5: Selecting the Right Machine Learning Model. ...
+Step 6: Training Your Machine Learning Model. ...
+Step 7: Evaluating Model Performance. ...
+Step 8: Tuning and Optimizing Your Model.
+
+
+
+Machine learning models are built into six steps:
+    Data access and collection
+    Data preparation
+    Exploration
+    Selecting the Right Machine Learning Model. 
+    Model building and training
+    Model evaluation
+    Model Optimizations 
+    Model deployment
+    Model monitoring.    

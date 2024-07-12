@@ -1,8 +1,9 @@
 import pandas as pd
+import numpy as np
 
 
 #Reading the datasets in the dataframe imported 
-df =pd.read_json("Assignments\users.json")
+df =pd.read_csv('band-csv.csv')
 print(df.head())#It displays  few lines of data in the dataframe soas to know the values of each column & row 
 print('************************')
 
