@@ -1,7 +1,7 @@
 #FOR LOOP
 
 def fun1():
-    characters = "Python"
+    characters = "Pythoon"
     for character in characters:
         print(character)
         
