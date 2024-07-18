@@ -1,7 +1,7 @@
 import numpy as np
 
 #Creating a 1D numpy array
-arr = np.array([1,2,3,4,5])
+arr = np.array([1,2,3,4,6])
 print(arr)
 #print("1 D", arr.shape)
 

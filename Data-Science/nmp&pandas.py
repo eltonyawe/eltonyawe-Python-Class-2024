@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 #Create numpy array
-data = np.array([[1,2,3,4],[6,7,8,9]])
+data = np.array([[1,2,3,4],[5,7,8,9]])
 
 #Create DataFrame from numpy array
 df =pd.DataFrame(data,columns=['A','B','C','D'])
