@@ -11,7 +11,7 @@ def Grade (Grade):
         case Grade if(Grade <= 70):
             print("C")
         case _:
-            print("F")
+            print("Failure")
 m= int(input("Grade"))
 
 Grade(m)              
