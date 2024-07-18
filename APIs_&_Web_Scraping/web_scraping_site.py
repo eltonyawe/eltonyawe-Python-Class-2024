@@ -9,5 +9,4 @@ soup = BeautifulSoup(page_to_scrape.text, 'html.parser')
 title = soup.find("title",attrs={"class":"........."})
 heading1 = soup.find("h1",attrs={"class":"........."})
 paragraph = soup.findAll("p",attrs={"class":"........"})
-
 print(heading1)

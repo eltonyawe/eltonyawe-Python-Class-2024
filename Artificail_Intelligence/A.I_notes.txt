@@ -95,3 +95,41 @@ Deep learning has been used in many applications like;
      -Deep belief networks
      -Recurrent neural networks
      -Transformers 
+
+
+
+Computer Vision:
+        Application : Image, video and voice recognition, Self Driving Vehicles
+
+Robotics :      
+     -The Design and creation of robots that can perform tasks autonomously 
+     Applications : Manfacturing of Robots, Household Robots, Autonomous Drone
+
+Expert Systems: 
+        A.I systems that emulate the decison making ability of human expert 
+        
+        Components of Expert Systems
+        -Knowledge based
+        -Inference Engine
+
+        Appilcations: Medical diagnosis, finacail forecasting
+
+A.I Appilcations
+>Predictive Maintainence
+>Anomaly Detection
+>Recommender Systems
+>Optimize Systems
+
+
+A.I Operations
+    Rule Based Systems
+     -These are systems that use set of predefined rules to make desicions
+
+    Search Algorthims
+    -This is a technique for navigating through a problem space to find a solution
+
+    Optimize Systems
+    -Finding the best solution from a set of solutions
+
+    Game Playing 
+    -A.I's that play with human beings or A.I opponents

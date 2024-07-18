@@ -36,4 +36,4 @@ def discount(a,b,c,d):
         print('Not Allowed at all')       
     
     
-print(discount(1500,900,1000,100))
+print(discount(1500,900,1000,100) )
