@@ -21,12 +21,12 @@ ist4= (True,False)
 ist6 = ist5 + ist + ist1 + ist2 + ist4 
 print (ist6)
 
-a = ('a,''b',1,2)
+a = ('abc,''b',1,2)
 b = (True,False)
 c = a + b
 print (c)
 
-car = (1,4,6,32,6.7,123)
+car = (1,14,6,32,6.7,123)
 print(car[4])
 print(car[-1])
 print(car[0])
