@@ -5,7 +5,7 @@ class Book:
     
     
     def open():
-        return ("Openning...")
+        return ("Openning......")
         
     def close():
         return ("Closing... the book")

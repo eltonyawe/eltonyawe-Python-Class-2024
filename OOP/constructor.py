@@ -30,7 +30,7 @@ print(f"Name : {object1.name} \nAge : {object1.age}")
 
 #A constructor with no parameters
 class Person2:
-    params = "Constructor has no params"        
+    params = "Constructor has no parameters"        
       
 # an instance of  class person      
 obj = Person2()
