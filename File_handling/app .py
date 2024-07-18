@@ -1,7 +1,7 @@
 # 'w' = write
 # 'r'= read
 # 'a' = append
-# 'x' = create
+# 'x' = createss
 
 # read - pints error if file doesnot exist
 
