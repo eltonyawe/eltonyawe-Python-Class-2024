@@ -78,7 +78,7 @@ age = 23
 
 #Using If statements {if , else} 
 if age>= 23:
-    print("You an Adult")
+    print("You are an Adult")
 else:
     print("Not an Adult")
     
