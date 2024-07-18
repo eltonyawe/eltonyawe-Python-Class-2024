@@ -14,7 +14,7 @@ GET  >It retrives data from a server
 POST  >It sends data to a server to create a new resource
 PUT  >For updating an existing resource on a server
 DELETE >It removes an existing resource  froma server 
-
+....
 
 Setting up Python Env't for APIs
 Requests.Library > for making http Requests
