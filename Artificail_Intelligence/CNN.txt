@@ -1,0 +1,11 @@
+ CNN > -Convulutional Neural Networks
+    -Convulational Layer: It applies a set of filters to the input image to extract features
+    -Activation Function 
+    -Pooling Layer
+    -Flatten Layer
+    -Fully connected layers
+    -Output Layer
+
+
+Implemention Methods /Steps
+    -load and preprocess the data ...
